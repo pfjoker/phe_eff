@@ -136,7 +136,9 @@ private:
     THnSparse   *hnHitsFit;
     THnSparse   *hnHitsDedx;
     THnSparse   *hnSigE;
+    THnSparse   *htpce;
     THnSparse   *htofmatch;
+    THnSparse   *htofmatch_e;
     THnSparse   *hbemcmatch;
     THnSparse   *hneta;
     THnSparse   *hnphi;
